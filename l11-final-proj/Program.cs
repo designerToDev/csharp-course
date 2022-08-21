@@ -112,11 +112,11 @@ void searchByName()
 
 
 
-// VIEW ALL EMPLOYEES --------------------------------------------------------------------------------------------------
+// VIEW ALL EMPLOYEES what --------------------------------------------------------------------------------------------------
 
 
 
-void viewEmployees()
+void viewEmployees()  
 {
 
     Console.WriteLine($"*********************\nView All Employees\n*********************\n");
