@@ -1,0 +1,15 @@
+/Users/blake.guffin/Desktop/csharp-course/l10-testing/ExampleApp/bin/Debug/net6.0/ExampleApp
+/Users/blake.guffin/Desktop/csharp-course/l10-testing/ExampleApp/bin/Debug/net6.0/ExampleApp.deps.json
+/Users/blake.guffin/Desktop/csharp-course/l10-testing/ExampleApp/bin/Debug/net6.0/ExampleApp.runtimeconfig.json
+/Users/blake.guffin/Desktop/csharp-course/l10-testing/ExampleApp/bin/Debug/net6.0/ExampleApp.dll
+/Users/blake.guffin/Desktop/csharp-course/l10-testing/ExampleApp/bin/Debug/net6.0/ExampleApp.pdb
+/Users/blake.guffin/Desktop/csharp-course/l10-testing/ExampleApp/obj/Debug/net6.0/ExampleApp.csproj.AssemblyReference.cache
+/Users/blake.guffin/Desktop/csharp-course/l10-testing/ExampleApp/obj/Debug/net6.0/ExampleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/blake.guffin/Desktop/csharp-course/l10-testing/ExampleApp/obj/Debug/net6.0/ExampleApp.AssemblyInfoInputs.cache
+/Users/blake.guffin/Desktop/csharp-course/l10-testing/ExampleApp/obj/Debug/net6.0/ExampleApp.AssemblyInfo.cs
+/Users/blake.guffin/Desktop/csharp-course/l10-testing/ExampleApp/obj/Debug/net6.0/ExampleApp.csproj.CoreCompileInputs.cache
+/Users/blake.guffin/Desktop/csharp-course/l10-testing/ExampleApp/obj/Debug/net6.0/ExampleApp.dll
+/Users/blake.guffin/Desktop/csharp-course/l10-testing/ExampleApp/obj/Debug/net6.0/refint/ExampleApp.dll
+/Users/blake.guffin/Desktop/csharp-course/l10-testing/ExampleApp/obj/Debug/net6.0/ExampleApp.pdb
+/Users/blake.guffin/Desktop/csharp-course/l10-testing/ExampleApp/obj/Debug/net6.0/ExampleApp.genruntimeconfig.cache
+/Users/blake.guffin/Desktop/csharp-course/l10-testing/ExampleApp/obj/Debug/net6.0/ref/ExampleApp.dll

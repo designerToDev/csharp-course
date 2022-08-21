@@ -1,0 +1,15 @@
+/Users/blake.guffin/Desktop/csharp-course/l05-loops/bin/Debug/net6.0/l05-loops
+/Users/blake.guffin/Desktop/csharp-course/l05-loops/bin/Debug/net6.0/l05-loops.deps.json
+/Users/blake.guffin/Desktop/csharp-course/l05-loops/bin/Debug/net6.0/l05-loops.runtimeconfig.json
+/Users/blake.guffin/Desktop/csharp-course/l05-loops/bin/Debug/net6.0/l05-loops.dll
+/Users/blake.guffin/Desktop/csharp-course/l05-loops/bin/Debug/net6.0/l05-loops.pdb
+/Users/blake.guffin/Desktop/csharp-course/l05-loops/obj/Debug/net6.0/l05-loops.csproj.AssemblyReference.cache
+/Users/blake.guffin/Desktop/csharp-course/l05-loops/obj/Debug/net6.0/l05-loops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/blake.guffin/Desktop/csharp-course/l05-loops/obj/Debug/net6.0/l05-loops.AssemblyInfoInputs.cache
+/Users/blake.guffin/Desktop/csharp-course/l05-loops/obj/Debug/net6.0/l05-loops.AssemblyInfo.cs
+/Users/blake.guffin/Desktop/csharp-course/l05-loops/obj/Debug/net6.0/l05-loops.csproj.CoreCompileInputs.cache
+/Users/blake.guffin/Desktop/csharp-course/l05-loops/obj/Debug/net6.0/l05-loops.dll
+/Users/blake.guffin/Desktop/csharp-course/l05-loops/obj/Debug/net6.0/refint/l05-loops.dll
+/Users/blake.guffin/Desktop/csharp-course/l05-loops/obj/Debug/net6.0/l05-loops.pdb
+/Users/blake.guffin/Desktop/csharp-course/l05-loops/obj/Debug/net6.0/l05-loops.genruntimeconfig.cache
+/Users/blake.guffin/Desktop/csharp-course/l05-loops/obj/Debug/net6.0/ref/l05-loops.dll

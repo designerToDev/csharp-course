@@ -1,0 +1,15 @@
+/Users/blake.guffin/Desktop/csharp-course/l04-decisions/bin/Debug/net6.0/l04-decisions
+/Users/blake.guffin/Desktop/csharp-course/l04-decisions/bin/Debug/net6.0/l04-decisions.deps.json
+/Users/blake.guffin/Desktop/csharp-course/l04-decisions/bin/Debug/net6.0/l04-decisions.runtimeconfig.json
+/Users/blake.guffin/Desktop/csharp-course/l04-decisions/bin/Debug/net6.0/l04-decisions.dll
+/Users/blake.guffin/Desktop/csharp-course/l04-decisions/bin/Debug/net6.0/l04-decisions.pdb
+/Users/blake.guffin/Desktop/csharp-course/l04-decisions/obj/Debug/net6.0/l04-decisions.csproj.AssemblyReference.cache
+/Users/blake.guffin/Desktop/csharp-course/l04-decisions/obj/Debug/net6.0/l04-decisions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/blake.guffin/Desktop/csharp-course/l04-decisions/obj/Debug/net6.0/l04-decisions.AssemblyInfoInputs.cache
+/Users/blake.guffin/Desktop/csharp-course/l04-decisions/obj/Debug/net6.0/l04-decisions.AssemblyInfo.cs
+/Users/blake.guffin/Desktop/csharp-course/l04-decisions/obj/Debug/net6.0/l04-decisions.csproj.CoreCompileInputs.cache
+/Users/blake.guffin/Desktop/csharp-course/l04-decisions/obj/Debug/net6.0/l04-decisions.dll
+/Users/blake.guffin/Desktop/csharp-course/l04-decisions/obj/Debug/net6.0/refint/l04-decisions.dll
+/Users/blake.guffin/Desktop/csharp-course/l04-decisions/obj/Debug/net6.0/l04-decisions.pdb
+/Users/blake.guffin/Desktop/csharp-course/l04-decisions/obj/Debug/net6.0/l04-decisions.genruntimeconfig.cache
+/Users/blake.guffin/Desktop/csharp-course/l04-decisions/obj/Debug/net6.0/ref/l04-decisions.dll

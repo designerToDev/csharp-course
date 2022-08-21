@@ -1,0 +1,15 @@
+/Users/blake.guffin/Desktop/csharp-course/l11-final-proj/bin/Debug/net6.0/l11-final-proj
+/Users/blake.guffin/Desktop/csharp-course/l11-final-proj/bin/Debug/net6.0/l11-final-proj.deps.json
+/Users/blake.guffin/Desktop/csharp-course/l11-final-proj/bin/Debug/net6.0/l11-final-proj.runtimeconfig.json
+/Users/blake.guffin/Desktop/csharp-course/l11-final-proj/bin/Debug/net6.0/l11-final-proj.dll
+/Users/blake.guffin/Desktop/csharp-course/l11-final-proj/bin/Debug/net6.0/l11-final-proj.pdb
+/Users/blake.guffin/Desktop/csharp-course/l11-final-proj/obj/Debug/net6.0/l11-final-proj.csproj.AssemblyReference.cache
+/Users/blake.guffin/Desktop/csharp-course/l11-final-proj/obj/Debug/net6.0/l11-final-proj.GeneratedMSBuildEditorConfig.editorconfig
+/Users/blake.guffin/Desktop/csharp-course/l11-final-proj/obj/Debug/net6.0/l11-final-proj.AssemblyInfoInputs.cache
+/Users/blake.guffin/Desktop/csharp-course/l11-final-proj/obj/Debug/net6.0/l11-final-proj.AssemblyInfo.cs
+/Users/blake.guffin/Desktop/csharp-course/l11-final-proj/obj/Debug/net6.0/l11-final-proj.csproj.CoreCompileInputs.cache
+/Users/blake.guffin/Desktop/csharp-course/l11-final-proj/obj/Debug/net6.0/l11-final-proj.dll
+/Users/blake.guffin/Desktop/csharp-course/l11-final-proj/obj/Debug/net6.0/refint/l11-final-proj.dll
+/Users/blake.guffin/Desktop/csharp-course/l11-final-proj/obj/Debug/net6.0/l11-final-proj.pdb
+/Users/blake.guffin/Desktop/csharp-course/l11-final-proj/obj/Debug/net6.0/l11-final-proj.genruntimeconfig.cache
+/Users/blake.guffin/Desktop/csharp-course/l11-final-proj/obj/Debug/net6.0/ref/l11-final-proj.dll

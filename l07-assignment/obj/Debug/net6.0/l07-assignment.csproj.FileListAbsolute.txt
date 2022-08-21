@@ -1,0 +1,15 @@
+/Users/blake.guffin/Desktop/csharp-course/l07-assignment/obj/Debug/net6.0/l07-assignment.csproj.AssemblyReference.cache
+/Users/blake.guffin/Desktop/csharp-course/l07-assignment/obj/Debug/net6.0/l07-assignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/blake.guffin/Desktop/csharp-course/l07-assignment/obj/Debug/net6.0/l07-assignment.AssemblyInfoInputs.cache
+/Users/blake.guffin/Desktop/csharp-course/l07-assignment/obj/Debug/net6.0/l07-assignment.AssemblyInfo.cs
+/Users/blake.guffin/Desktop/csharp-course/l07-assignment/obj/Debug/net6.0/l07-assignment.csproj.CoreCompileInputs.cache
+/Users/blake.guffin/Desktop/csharp-course/l07-assignment/bin/Debug/net6.0/l07-assignment
+/Users/blake.guffin/Desktop/csharp-course/l07-assignment/bin/Debug/net6.0/l07-assignment.deps.json
+/Users/blake.guffin/Desktop/csharp-course/l07-assignment/bin/Debug/net6.0/l07-assignment.runtimeconfig.json
+/Users/blake.guffin/Desktop/csharp-course/l07-assignment/bin/Debug/net6.0/l07-assignment.dll
+/Users/blake.guffin/Desktop/csharp-course/l07-assignment/bin/Debug/net6.0/l07-assignment.pdb
+/Users/blake.guffin/Desktop/csharp-course/l07-assignment/obj/Debug/net6.0/l07-assignment.dll
+/Users/blake.guffin/Desktop/csharp-course/l07-assignment/obj/Debug/net6.0/refint/l07-assignment.dll
+/Users/blake.guffin/Desktop/csharp-course/l07-assignment/obj/Debug/net6.0/l07-assignment.pdb
+/Users/blake.guffin/Desktop/csharp-course/l07-assignment/obj/Debug/net6.0/l07-assignment.genruntimeconfig.cache
+/Users/blake.guffin/Desktop/csharp-course/l07-assignment/obj/Debug/net6.0/ref/l07-assignment.dll

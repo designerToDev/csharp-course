@@ -1,0 +1,15 @@
+/Users/blake.guffin/Desktop/csharp-course/l01-demo/bin/Debug/net6.0/l01-demo
+/Users/blake.guffin/Desktop/csharp-course/l01-demo/bin/Debug/net6.0/l01-demo.deps.json
+/Users/blake.guffin/Desktop/csharp-course/l01-demo/bin/Debug/net6.0/l01-demo.runtimeconfig.json
+/Users/blake.guffin/Desktop/csharp-course/l01-demo/bin/Debug/net6.0/l01-demo.dll
+/Users/blake.guffin/Desktop/csharp-course/l01-demo/bin/Debug/net6.0/l01-demo.pdb
+/Users/blake.guffin/Desktop/csharp-course/l01-demo/obj/Debug/net6.0/l01-demo.csproj.AssemblyReference.cache
+/Users/blake.guffin/Desktop/csharp-course/l01-demo/obj/Debug/net6.0/l01-demo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/blake.guffin/Desktop/csharp-course/l01-demo/obj/Debug/net6.0/l01-demo.AssemblyInfoInputs.cache
+/Users/blake.guffin/Desktop/csharp-course/l01-demo/obj/Debug/net6.0/l01-demo.AssemblyInfo.cs
+/Users/blake.guffin/Desktop/csharp-course/l01-demo/obj/Debug/net6.0/l01-demo.csproj.CoreCompileInputs.cache
+/Users/blake.guffin/Desktop/csharp-course/l01-demo/obj/Debug/net6.0/l01-demo.dll
+/Users/blake.guffin/Desktop/csharp-course/l01-demo/obj/Debug/net6.0/refint/l01-demo.dll
+/Users/blake.guffin/Desktop/csharp-course/l01-demo/obj/Debug/net6.0/l01-demo.pdb
+/Users/blake.guffin/Desktop/csharp-course/l01-demo/obj/Debug/net6.0/l01-demo.genruntimeconfig.cache
+/Users/blake.guffin/Desktop/csharp-course/l01-demo/obj/Debug/net6.0/ref/l01-demo.dll

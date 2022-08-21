@@ -1,0 +1,15 @@
+/Users/blake.guffin/Desktop/csharp-course/l09-debugging/obj/Debug/net6.0/l09-debugging.csproj.AssemblyReference.cache
+/Users/blake.guffin/Desktop/csharp-course/l09-debugging/obj/Debug/net6.0/l09-debugging.GeneratedMSBuildEditorConfig.editorconfig
+/Users/blake.guffin/Desktop/csharp-course/l09-debugging/obj/Debug/net6.0/l09-debugging.AssemblyInfoInputs.cache
+/Users/blake.guffin/Desktop/csharp-course/l09-debugging/obj/Debug/net6.0/l09-debugging.AssemblyInfo.cs
+/Users/blake.guffin/Desktop/csharp-course/l09-debugging/obj/Debug/net6.0/l09-debugging.csproj.CoreCompileInputs.cache
+/Users/blake.guffin/Desktop/csharp-course/l09-debugging/bin/Debug/net6.0/l09-debugging
+/Users/blake.guffin/Desktop/csharp-course/l09-debugging/bin/Debug/net6.0/l09-debugging.deps.json
+/Users/blake.guffin/Desktop/csharp-course/l09-debugging/bin/Debug/net6.0/l09-debugging.runtimeconfig.json
+/Users/blake.guffin/Desktop/csharp-course/l09-debugging/bin/Debug/net6.0/l09-debugging.dll
+/Users/blake.guffin/Desktop/csharp-course/l09-debugging/bin/Debug/net6.0/l09-debugging.pdb
+/Users/blake.guffin/Desktop/csharp-course/l09-debugging/obj/Debug/net6.0/l09-debugging.dll
+/Users/blake.guffin/Desktop/csharp-course/l09-debugging/obj/Debug/net6.0/refint/l09-debugging.dll
+/Users/blake.guffin/Desktop/csharp-course/l09-debugging/obj/Debug/net6.0/l09-debugging.pdb
+/Users/blake.guffin/Desktop/csharp-course/l09-debugging/obj/Debug/net6.0/l09-debugging.genruntimeconfig.cache
+/Users/blake.guffin/Desktop/csharp-course/l09-debugging/obj/Debug/net6.0/ref/l09-debugging.dll
